@@ -33,4 +33,11 @@ the test made on tests must contains this following structure (tests\test_name.p
     def test_basic_duckduckgo_Search(browser):
         #code
         #code
-    raise Exception('Incomplete Test') 
+    raise Exception('Incomplete Test')
+
+/pages/__init__.py
+the __init__ means that this folder is a python package.
+
+/pages/result.py
+
+/pages/search.py
