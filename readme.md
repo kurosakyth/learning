@@ -1,3 +1,5 @@
+Curso sobre elementos en web avanzados: Locating web elements Strategies TAU Andrew Knight
+Curso sobre AI para seleccion de elementos: AI for Element Selection: Erasing the Pain of Fragile Tests Scripts Jason Arbon
 Requirements:
     Python.
     Pipenv:
