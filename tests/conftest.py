@@ -10,4 +10,4 @@ def browser():
     #Return the webdriver instance for the setup
     yield b
     #Quit the webdriver instance for the cleanup
-    b. quit() 
+    b. quit()
