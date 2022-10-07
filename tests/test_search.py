@@ -26,4 +26,5 @@ def test_basic_duckduckgo_search(browser):
   # And the search result links pertain to "panda"
   titles = result_page.result_link_titles()
   matches = [t for t in titles if PHRASE.lower() in t.lower()]
+  print (matches)
   assert len(matches) > 0

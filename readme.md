@@ -1,5 +1,6 @@
 Curso sobre elementos en web avanzados: Locating web elements Strategies TAU Andrew Knight
 Curso sobre AI para seleccion de elementos: AI for Element Selection: Erasing the Pain of Fragile Tests Scripts Jason Arbon
+
 Requirements:
     Python.
     Pipenv:
@@ -11,6 +12,8 @@ Requirements:
 
             pipenv install pytest (if no module of pytest found)
         pipenv install selenium
+
+To print in console a print(something) you should use the command pipenv run python -m pytest -s
 
 Always a file named 'tests' and inside the files.py made must contain the name 'test_'name'.py
 
