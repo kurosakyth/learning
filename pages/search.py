@@ -11,7 +11,7 @@ class DuckDuckGoSearchPage:
 
   # URL
 
-  URL = 'https://www.duckduckgo.com'
+  URL = 'https://duckduckgo.com/?t=ha&va=j'
 
   # Locators
 
