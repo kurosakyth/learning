@@ -16,3 +16,4 @@ git config –list (muestra la información del archivo de configuración)
 git remote set-url origin url.del.repositorio.git.com (setea o cambia el repositorio que se usa)
 git pull origin main (jalar cambios del branch main) 
 git status (muestra el arbol de los files added)
+git push origin main
