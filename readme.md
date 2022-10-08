@@ -44,5 +44,5 @@ the test made on tests must contains this following structure (tests\test_name.p
 the __init__ means that this folder is a python package.
 
 /pages/result.py
-
+search_input = self.browser.find_element(*self.SEARCH_INPUT) ('*self....' el * significa que le está pasando un tuple '(By.ID, 'search_form_input')')
 /pages/search.py
